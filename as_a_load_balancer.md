@@ -8,7 +8,6 @@ upstream proxies {
 
 }
 
-
 server {
         listen 7000;
 
