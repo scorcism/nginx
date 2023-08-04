@@ -1,3 +1,5 @@
+
+```conf
 upstream proxies {
       # main server endpoints
 
@@ -19,3 +21,4 @@ server {
         }
 
 }
+```
